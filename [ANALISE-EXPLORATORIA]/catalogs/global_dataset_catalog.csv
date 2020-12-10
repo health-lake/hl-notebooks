@@ -1,0 +1,9 @@
+campo;tipo de dado;descrição
+createdOn;Date;data de criação
+identifier;String;base de dados de origem do dado
+valueString;Numeric;valor da variável
+valueType_display;String;informação analisada (variável)
+addressCountry;String;país
+adressState;String;sigla do estado
+adressCity;String;cidade
+adressType_display;String;tipo de unidade federativa

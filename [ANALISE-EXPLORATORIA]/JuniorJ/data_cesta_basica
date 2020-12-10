@@ -1,0 +1,341 @@
+date,city,amount,regiao,year,month,trim
+2019-01-01,Brasília,427.1,Centro Oeste,2019,1,primeiro
+2019-01-01,Campo Grande,414.83,Centro Oeste,2019,1,primeiro
+2019-01-01,Goiânia,398.23,Centro Oeste,2019,1,primeiro
+2019-01-01,Belo Horizonte,405.4,Sudeste,2019,1,primeiro
+2019-01-01,Rio de Janeiro,460.46,Sudeste,2019,1,primeiro
+2019-01-01,São Paulo,467.65,Sudeste,2019,1,primeiro
+2019-01-01,Vitória,424.21,Sudeste,2019,1,primeiro
+2019-01-01,Curitiba,401.63,Sul,2019,1,primeiro
+2019-01-01,Florianópolis,437.55,Sul,2019,1,primeiro
+2019-01-01,Porto Alegre,441.65,Sul,2019,1,primeiro
+2019-01-01,Belém,384.78,Norte,2019,1,primeiro
+2019-01-01,Aracaju,356.56,Nordeste,2019,1,primeiro
+2019-01-01,Fortaleza,403.99,Nordeste,2019,1,primeiro
+2019-01-01,João Pessoa,360.92,Nordeste,2019,1,primeiro
+2019-01-01,Natal,351.83,Nordeste,2019,1,primeiro
+2019-01-01,Recife,348.85,Nordeste,2019,1,primeiro
+2019-01-01,Salvador,353.43,Nordeste,2019,1,primeiro
+2019-02-01,Brasília,427.54,Centro Oeste,2019,2,primeiro
+2019-02-01,Campo Grande,438.64,Centro Oeste,2019,2,primeiro
+2019-02-01,Goiânia,416.4,Centro Oeste,2019,2,primeiro
+2019-02-01,Belo Horizonte,425.0,Sudeste,2019,2,primeiro
+2019-02-01,Rio de Janeiro,464.47,Sudeste,2019,2,primeiro
+2019-02-01,São Paulo,482.4,Sudeste,2019,2,primeiro
+2019-02-01,Vitória,449.54,Sudeste,2019,2,primeiro
+2019-02-01,Curitiba,414.03,Sul,2019,2,primeiro
+2019-02-01,Florianópolis,441.89,Sul,2019,2,primeiro
+2019-02-01,Porto Alegre,449.95,Sul,2019,2,primeiro
+2019-02-01,Belém,383.76,Norte,2019,2,primeiro
+2019-02-01,Aracaju,379.61,Nordeste,2019,2,primeiro
+2019-02-01,Fortaleza,416.86,Nordeste,2019,2,primeiro
+2019-02-01,João Pessoa,378.26,Nordeste,2019,2,primeiro
+2019-02-01,Natal,375.58,Nordeste,2019,2,primeiro
+2019-02-01,Recife,376.34,Nordeste,2019,2,primeiro
+2019-02-01,Salvador,362.93,Nordeste,2019,2,primeiro
+2019-03-01,Brasília,474.94,Centro Oeste,2019,3,primeiro
+2019-03-01,Campo Grande,447.5,Centro Oeste,2019,3,primeiro
+2019-03-01,Goiânia,433.43,Centro Oeste,2019,3,primeiro
+2019-03-01,Belo Horizonte,443.26,Sudeste,2019,3,primeiro
+2019-03-01,Rio de Janeiro,496.33,Sudeste,2019,3,primeiro
+2019-03-01,São Paulo,509.11,Sudeste,2019,3,primeiro
+2019-03-01,Vitória,475.84,Sudeste,2019,3,primeiro
+2019-03-01,Curitiba,443.86,Sul,2019,3,primeiro
+2019-03-01,Florianópolis,474.07,Sul,2019,3,primeiro
+2019-03-01,Porto Alegre,479.53,Sul,2019,3,primeiro
+2019-03-01,Belém,408.67,Norte,2019,3,primeiro
+2019-03-01,Aracaju,385.62,Nordeste,2019,3,primeiro
+2019-03-01,Fortaleza,445.12,Nordeste,2019,3,primeiro
+2019-03-01,João Pessoa,400.38,Nordeste,2019,3,primeiro
+2019-03-01,Natal,399.01,Nordeste,2019,3,primeiro
+2019-03-01,Recife,401.35,Nordeste,2019,3,primeiro
+2019-03-01,Salvador,382.35,Nordeste,2019,3,primeiro
+2019-04-01,Brasília,487.02,Centro Oeste,2019,4,segundo
+2019-04-01,Campo Grande,492.55,Centro Oeste,2019,4,segundo
+2019-04-01,Goiânia,445.28,Centro Oeste,2019,4,segundo
+2019-04-01,Belo Horizonte,456.91,Sudeste,2019,4,segundo
+2019-04-01,Rio de Janeiro,515.58,Sudeste,2019,4,segundo
+2019-04-01,São Paulo,522.05,Sudeste,2019,4,segundo
+2019-04-01,Vitória,498.54,Sudeste,2019,4,segundo
+2019-04-01,Curitiba,461.91,Sul,2019,4,segundo
+2019-04-01,Florianópolis,482.3,Sul,2019,4,segundo
+2019-04-01,Porto Alegre,499.38,Sul,2019,4,segundo
+2019-04-01,Belém,423.17,Norte,2019,4,segundo
+2019-04-01,Aracaju,404.68,Nordeste,2019,4,segundo
+2019-04-01,Fortaleza,459.2,Nordeste,2019,4,segundo
+2019-04-01,João Pessoa,412.27,Nordeste,2019,4,segundo
+2019-04-01,Natal,410.1,Nordeste,2019,4,segundo
+2019-04-01,Recife,417.03,Nordeste,2019,4,segundo
+2019-04-01,Salvador,396.75,Nordeste,2019,4,segundo
+2019-05-01,Brasília,487.3,Centro Oeste,2019,5,segundo
+2019-05-01,Campo Grande,423.97,Centro Oeste,2019,5,segundo
+2019-05-01,Goiânia,425.35,Centro Oeste,2019,5,segundo
+2019-05-01,Belo Horizonte,424.85,Sudeste,2019,5,segundo
+2019-05-01,Rio de Janeiro,492.93,Sudeste,2019,5,segundo
+2019-05-01,São Paulo,507.07,Sudeste,2019,5,segundo
+2019-05-01,Vitória,484.84,Sudeste,2019,5,segundo
+2019-05-01,Curitiba,451.38,Sul,2019,5,segundo
+2019-05-01,Florianópolis,487.93,Sul,2019,5,segundo
+2019-05-01,Porto Alegre,496.13,Sul,2019,5,segundo
+2019-05-01,Belém,418.05,Norte,2019,5,segundo
+2019-05-01,Aracaju,408.16,Nordeste,2019,5,segundo
+2019-05-01,Fortaleza,444.44,Nordeste,2019,5,segundo
+2019-05-01,João Pessoa,403.57,Nordeste,2019,5,segundo
+2019-05-01,Natal,406.07,Nordeste,2019,5,segundo
+2019-05-01,Recife,417.85,Nordeste,2019,5,segundo
+2019-05-01,Salvador,392.97,Nordeste,2019,5,segundo
+2019-06-01,Brasília,454.9,Centro Oeste,2019,6,segundo
+2019-06-01,Campo Grande,428.33,Centro Oeste,2019,6,segundo
+2019-06-01,Goiânia,421.65,Centro Oeste,2019,6,segundo
+2019-06-01,Belo Horizonte,429.3,Sudeste,2019,6,segundo
+2019-06-01,Rio de Janeiro,498.67,Sudeste,2019,6,segundo
+2019-06-01,São Paulo,501.68,Sudeste,2019,6,segundo
+2019-06-01,Vitória,485.34,Sudeste,2019,6,segundo
+2019-06-01,Curitiba,446.54,Sul,2019,6,segundo
+2019-06-01,Florianópolis,494.96,Sul,2019,6,segundo
+2019-06-01,Porto Alegre,498.41,Sul,2019,6,segundo
+2019-06-01,Belém,407.67,Norte,2019,6,segundo
+2019-06-01,Aracaju,383.09,Nordeste,2019,6,segundo
+2019-06-01,Fortaleza,448.73,Nordeste,2019,6,segundo
+2019-06-01,João Pessoa,398.72,Nordeste,2019,6,segundo
+2019-06-01,Natal,397.24,Nordeste,2019,6,segundo
+2019-06-01,Recife,396.21,Nordeste,2019,6,segundo
+2019-06-01,Salvador,384.76,Nordeste,2019,6,segundo
+2019-07-01,Brasília,449.27,Centro Oeste,2019,7,terceiro
+2019-07-01,Campo Grande,420.07,Centro Oeste,2019,7,terceiro
+2019-07-01,Goiânia,420.55,Centro Oeste,2019,7,terceiro
+2019-07-01,Belo Horizonte,415.03,Sudeste,2019,7,terceiro
+2019-07-01,Rio de Janeiro,479.28,Sudeste,2019,7,terceiro
+2019-07-01,São Paulo,493.16,Sudeste,2019,7,terceiro
+2019-07-01,Vitória,466.93,Sudeste,2019,7,terceiro
+2019-07-01,Curitiba,443.68,Sul,2019,7,terceiro
+2019-07-01,Florianópolis,483.2,Sul,2019,7,terceiro
+2019-07-01,Porto Alegre,493.22,Sul,2019,7,terceiro
+2019-07-01,Belém,403.35,Norte,2019,7,terceiro
+2019-07-01,Aracaju,359.95,Nordeste,2019,7,terceiro
+2019-07-01,Fortaleza,432.96,Nordeste,2019,7,terceiro
+2019-07-01,João Pessoa,385.58,Nordeste,2019,7,terceiro
+2019-07-01,Natal,381.27,Nordeste,2019,7,terceiro
+2019-07-01,Recife,381.1,Nordeste,2019,7,terceiro
+2019-07-01,Salvador,372.25,Nordeste,2019,7,terceiro
+2019-08-01,Brasília,433.45,Centro Oeste,2019,8,terceiro
+2019-08-01,Campo Grande,408.11,Centro Oeste,2019,8,terceiro
+2019-08-01,Goiânia,399.4,Centro Oeste,2019,8,terceiro
+2019-08-01,Belo Horizonte,401.14,Sudeste,2019,8,terceiro
+2019-08-01,Rio de Janeiro,462.24,Sudeste,2019,8,terceiro
+2019-08-01,São Paulo,481.44,Sudeste,2019,8,terceiro
+2019-08-01,Vitória,441.5,Sudeste,2019,8,terceiro
+2019-08-01,Curitiba,441.28,Sul,2019,8,terceiro
+2019-08-01,Florianópolis,464.24,Sul,2019,8,terceiro
+2019-08-01,Porto Alegre,469.17,Sul,2019,8,terceiro
+2019-08-01,Belém,393.94,Norte,2019,8,terceiro
+2019-08-01,Aracaju,337.96,Nordeste,2019,8,terceiro
+2019-08-01,Fortaleza,402.84,Nordeste,2019,8,terceiro
+2019-08-01,João Pessoa,367.86,Nordeste,2019,8,terceiro
+2019-08-01,Natal,354.44,Nordeste,2019,8,terceiro
+2019-08-01,Recife,361.64,Nordeste,2019,8,terceiro
+2019-08-01,Salvador,350.75,Nordeste,2019,8,terceiro
+2019-09-01,Brasília,420.01,Centro Oeste,2019,9,terceiro
+2019-09-01,Campo Grande,396.98,Centro Oeste,2019,9,terceiro
+2019-09-01,Goiânia,391.31,Centro Oeste,2019,9,terceiro
+2019-09-01,Belo Horizonte,390.93,Sudeste,2019,9,terceiro
+2019-09-01,Rio de Janeiro,458.21,Sudeste,2019,9,terceiro
+2019-09-01,São Paulo,473.85,Sudeste,2019,9,terceiro
+2019-09-01,Vitória,429.06,Sudeste,2019,9,terceiro
+2019-09-01,Curitiba,424.81,Sul,2019,9,terceiro
+2019-09-01,Florianópolis,454.94,Sul,2019,9,terceiro
+2019-09-01,Porto Alegre,458.29,Sul,2019,9,terceiro
+2019-09-01,Belém,382.11,Norte,2019,9,terceiro
+2019-09-01,Aracaju,328.7,Nordeste,2019,9,terceiro
+2019-09-01,Fortaleza,384.17,Nordeste,2019,9,terceiro
+2019-09-01,João Pessoa,359.62,Nordeste,2019,9,terceiro
+2019-09-01,Natal,352.57,Nordeste,2019,9,terceiro
+2019-09-01,Recife,367.16,Nordeste,2019,9,terceiro
+2019-09-01,Salvador,345.04,Nordeste,2019,9,terceiro
+2019-10-01,Brasília,441.91,Centro Oeste,2019,10,quarto
+2019-10-01,Campo Grande,409.3,Centro Oeste,2019,10,quarto
+2019-10-01,Goiânia,395.7,Centro Oeste,2019,10,quarto
+2019-10-01,Belo Horizonte,391.85,Sudeste,2019,10,quarto
+2019-10-01,Rio de Janeiro,462.57,Sudeste,2019,10,quarto
+2019-10-01,São Paulo,473.59,Sudeste,2019,10,quarto
+2019-10-01,Vitória,428.25,Sudeste,2019,10,quarto
+2019-10-01,Curitiba,421.86,Sul,2019,10,quarto
+2019-10-01,Florianópolis,458.28,Sul,2019,10,quarto
+2019-10-01,Porto Alegre,463.24,Sul,2019,10,quarto
+2019-10-01,Belém,377.37,Norte,2019,10,quarto
+2019-10-01,Aracaju,325.01,Nordeste,2019,10,quarto
+2019-10-01,Fortaleza,387.18,Nordeste,2019,10,quarto
+2019-10-01,João Pessoa,351.19,Nordeste,2019,10,quarto
+2019-10-01,Natal,341.9,Nordeste,2019,10,quarto
+2019-10-01,Recife,359.55,Nordeste,2019,10,quarto
+2019-10-01,Salvador,347.65,Nordeste,2019,10,quarto
+2019-11-01,Brasília,,Centro Oeste,2019,11,quarto
+2019-11-01,Campo Grande,422.06,Centro Oeste,2019,11,quarto
+2019-11-01,Goiânia,400.16,Centro Oeste,2019,11,quarto
+2019-11-01,Belo Horizonte,393.58,Sudeste,2019,11,quarto
+2019-11-01,Rio de Janeiro,455.37,Sudeste,2019,11,quarto
+2019-11-01,São Paulo,465.81,Sudeste,2019,11,quarto
+2019-11-01,Vitória,462.06,Sudeste,2019,11,quarto
+2019-11-01,Curitiba,413.63,Sul,2019,11,quarto
+2019-11-01,Florianópolis,478.68,Sul,2019,11,quarto
+2019-11-01,Porto Alegre,453.82,Sul,2019,11,quarto
+2019-11-01,Belém,381.28,Norte,2019,11,quarto
+2019-11-01,Aracaju,325.4,Nordeste,2019,11,quarto
+2019-11-01,Fortaleza,395.82,Nordeste,2019,11,quarto
+2019-11-01,João Pessoa,347.14,Nordeste,2019,11,quarto
+2019-11-01,Natal,347.89,Nordeste,2019,11,quarto
+2019-11-01,Recife,354.64,Nordeste,2019,11,quarto
+2019-11-01,Salvador,341.45,Nordeste,2019,11,quarto
+2019-12-01,Brasília,473.9,Centro Oeste,2019,12,quarto
+2019-12-01,Campo Grande,450.08,Centro Oeste,2019,12,quarto
+2019-12-01,Goiânia,454.75,Centro Oeste,2019,12,quarto
+2019-12-01,Belo Horizonte,444.91,Sudeste,2019,12,quarto
+2019-12-01,Rio de Janeiro,516.91,Sudeste,2019,12,quarto
+2019-12-01,São Paulo,506.5,Sudeste,2019,12,quarto
+2019-12-01,Vitória,499.23,Sudeste,2019,12,quarto
+2019-12-01,Curitiba,458.88,Sul,2019,12,quarto
+2019-12-01,Florianópolis,511.7,Sul,2019,12,quarto
+2019-12-01,Porto Alegre,506.3,Sul,2019,12,quarto
+2019-12-01,Belém,414.13,Norte,2019,12,quarto
+2019-12-01,Aracaju,351.97,Nordeste,2019,12,quarto
+2019-12-01,Fortaleza,433.64,Nordeste,2019,12,quarto
+2019-12-01,João Pessoa,373.56,Nordeste,2019,12,quarto
+2019-12-01,Natal,383.76,Nordeste,2019,12,quarto
+2019-12-01,Recife,393.8,Nordeste,2019,12,quarto
+2019-12-01,Salvador,360.51,Nordeste,2019,12,quarto
+2020-01-01,Brasília,483.17,Centro Oeste,2020,1,primeiro
+2020-01-01,Campo Grande,458.0,Centro Oeste,2020,1,primeiro
+2020-01-01,Goiânia,455.08,Centro Oeste,2020,1,primeiro
+2020-01-01,Belo Horizonte,456.35,Sudeste,2020,1,primeiro
+2020-01-01,Rio de Janeiro,507.13,Sudeste,2020,1,primeiro
+2020-01-01,São Paulo,517.51,Sudeste,2020,1,primeiro
+2020-01-01,Vitória,492.2,Sudeste,2020,1,primeiro
+2020-01-01,Curitiba,452.32,Sul,2020,1,primeiro
+2020-01-01,Florianópolis,489.13,Sul,2020,1,primeiro
+2020-01-01,Porto Alegre,502.98,Sul,2020,1,primeiro
+2020-01-01,Belém,415.56,Norte,2020,1,primeiro
+2020-01-01,Aracaju,368.69,Nordeste,2020,1,primeiro
+2020-01-01,Fortaleza,433.39,Nordeste,2020,1,primeiro
+2020-01-01,João Pessoa,388.02,Nordeste,2020,1,primeiro
+2020-01-01,Natal,389.26,Nordeste,2020,1,primeiro
+2020-01-01,Recife,395.93,Nordeste,2020,1,primeiro
+2020-01-01,Salvador,376.49,Nordeste,2020,1,primeiro
+2020-02-01,Brasília,481.78,Centro Oeste,2020,2,primeiro
+2020-02-01,Campo Grande,445.4,Centro Oeste,2020,2,primeiro
+2020-02-01,Goiânia,448.62,Centro Oeste,2020,2,primeiro
+2020-02-01,Belo Horizonte,459.1,Sudeste,2020,2,primeiro
+2020-02-01,Rio de Janeiro,505.55,Sudeste,2020,2,primeiro
+2020-02-01,São Paulo,519.76,Sudeste,2020,2,primeiro
+2020-02-01,Vitória,480.03,Sudeste,2020,2,primeiro
+2020-02-01,Curitiba,447.91,Sul,2020,2,primeiro
+2020-02-01,Florianópolis,493.15,Sul,2020,2,primeiro
+2020-02-01,Porto Alegre,492.83,Sul,2020,2,primeiro
+2020-02-01,Belém,432.95,Norte,2020,2,primeiro
+2020-02-01,Aracaju,371.22,Nordeste,2020,2,primeiro
+2020-02-01,Fortaleza,462.99,Nordeste,2020,2,primeiro
+2020-02-01,João Pessoa,403.98,Nordeste,2020,2,primeiro
+2020-02-01,Natal,405.88,Nordeste,2020,2,primeiro
+2020-02-01,Recife,420.27,Nordeste,2020,2,primeiro
+2020-02-01,Salvador,395.49,Nordeste,2020,2,primeiro
+2020-03-01,Brasília,484.15,Centro Oeste,2020,3,primeiro
+2020-03-01,Campo Grande,474.53,Centro Oeste,2020,3,primeiro
+2020-03-01,Goiânia,456.18,Centro Oeste,2020,3,primeiro
+2020-03-01,Belo Horizonte,461.28,Sudeste,2020,3,primeiro
+2020-03-01,Rio de Janeiro,533.65,Sudeste,2020,3,primeiro
+2020-03-01,São Paulo,518.5,Sudeste,2020,3,primeiro
+2020-03-01,Vitória,504.78,Sudeste,2020,3,primeiro
+2020-03-01,Curitiba,465.47,Sul,2020,3,primeiro
+2020-03-01,Florianópolis,517.13,Sul,2020,3,primeiro
+2020-03-01,Porto Alegre,497.88,Sul,2020,3,primeiro
+2020-03-01,Belém,418.8,Norte,2020,3,primeiro
+2020-03-01,Aracaju,390.2,Nordeste,2020,3,primeiro
+2020-03-01,Fortaleza,475.11,Nordeste,2020,3,primeiro
+2020-03-01,João Pessoa,414.05,Nordeste,2020,3,primeiro
+2020-03-01,Natal,426.0,Nordeste,2020,3,primeiro
+2020-03-01,Recife,433.28,Nordeste,2020,3,primeiro
+2020-03-01,Salvador,408.06,Nordeste,2020,3,primeiro
+2020-04-01,Brasília,471.17,Centro Oeste,2020,4,segundo
+2020-04-01,Campo Grande,495.69,Centro Oeste,2020,4,segundo
+2020-04-01,Goiânia,493.21,Centro Oeste,2020,4,segundo
+2020-04-01,Belo Horizonte,484.55,Sudeste,2020,4,segundo
+2020-04-01,Rio de Janeiro,544.34,Sudeste,2020,4,segundo
+2020-04-01,São Paulo,556.25,Sudeste,2020,4,segundo
+2020-04-01,Vitória,537.89,Sudeste,2020,4,segundo
+2020-04-01,Curitiba,511.23,Sul,2020,4,segundo
+2020-04-01,Florianópolis,523.8,Sul,2020,4,segundo
+2020-04-01,Porto Alegre,527.01,Sul,2020,4,segundo
+2020-04-01,Belém,434.19,Norte,2020,4,segundo
+2020-04-01,Aracaju,401.37,Nordeste,2020,4,segundo
+2020-04-01,Fortaleza,482.46,Nordeste,2020,4,segundo
+2020-04-01,João Pessoa,437.93,Nordeste,2020,4,segundo
+2020-04-01,Natal,428.28,Nordeste,2020,4,segundo
+2020-04-01,Recife,461.26,Nordeste,2020,4,segundo
+2020-04-01,Salvador,425.12,Nordeste,2020,4,segundo
+2020-05-01,Brasília,441.09,Centro Oeste,2020,5,segundo
+2020-05-01,Campo Grande,455.35,Centro Oeste,2020,5,segundo
+2020-05-01,Goiânia,505.99,Centro Oeste,2020,5,segundo
+2020-05-01,Belo Horizonte,484.02,Sudeste,2020,5,segundo
+2020-05-01,Rio de Janeiro,558.81,Sudeste,2020,5,segundo
+2020-05-01,São Paulo,556.36,Sudeste,2020,5,segundo
+2020-05-01,Vitória,536.73,Sudeste,2020,5,segundo
+2020-05-01,Curitiba,531.27,Sul,2020,5,segundo
+2020-05-01,Florianópolis,524.07,Sul,2020,5,segundo
+2020-05-01,Porto Alegre,518.63,Sul,2020,5,segundo
+2020-05-01,Belém,453.36,Norte,2020,5,segundo
+2020-05-01,Aracaju,400.15,Nordeste,2020,5,segundo
+2020-05-01,Fortaleza,455.18,Nordeste,2020,5,segundo
+2020-05-01,João Pessoa,440.25,Nordeste,2020,5,segundo
+2020-05-01,Natal,429.57,Nordeste,2020,5,segundo
+2020-05-01,Recife,451.45,Nordeste,2020,5,segundo
+2020-05-01,Salvador,410.33,Nordeste,2020,5,segundo
+2020-06-01,Brasília,450.45,Centro Oeste,2020,6,segundo
+2020-06-01,Campo Grande,475.01,Centro Oeste,2020,6,segundo
+2020-06-01,Goiânia,480.78,Centro Oeste,2020,6,segundo
+2020-06-01,Belo Horizonte,475.19,Sudeste,2020,6,segundo
+2020-06-01,Rio de Janeiro,512.84,Sudeste,2020,6,segundo
+2020-06-01,São Paulo,547.03,Sudeste,2020,6,segundo
+2020-06-01,Vitória,500.01,Sudeste,2020,6,segundo
+2020-06-01,Curitiba,506.04,Sul,2020,6,segundo
+2020-06-01,Florianópolis,516.97,Sul,2020,6,segundo
+2020-06-01,Porto Alegre,512.4,Sul,2020,6,segundo
+2020-06-01,Belém,453.87,Norte,2020,6,segundo
+2020-06-01,Aracaju,420.03,Nordeste,2020,6,segundo
+2020-06-01,Fortaleza,464.31,Nordeste,2020,6,segundo
+2020-06-01,João Pessoa,430.44,Nordeste,2020,6,segundo
+2020-06-01,Natal,442.46,Nordeste,2020,6,segundo
+2020-06-01,Recife,435.3,Nordeste,2020,6,segundo
+2020-06-01,Salvador,419.18,Nordeste,2020,6,segundo
+2020-07-01,Brasília,449.96,Centro Oeste,2020,7,terceiro
+2020-07-01,Campo Grande,479.79,Centro Oeste,2020,7,terceiro
+2020-07-01,Goiânia,472.86,Centro Oeste,2020,7,terceiro
+2020-07-01,Belo Horizonte,465.06,Sudeste,2020,7,terceiro
+2020-07-01,Rio de Janeiro,505.72,Sudeste,2020,7,terceiro
+2020-07-01,São Paulo,524.74,Sudeste,2020,7,terceiro
+2020-07-01,Vitória,484.8,Sudeste,2020,7,terceiro
+2020-07-01,Curitiba,526.14,Sul,2020,7,terceiro
+2020-07-01,Florianópolis,522.03,Sul,2020,7,terceiro
+2020-07-01,Porto Alegre,511.22,Sul,2020,7,terceiro
+2020-07-01,Belém,440.99,Norte,2020,7,terceiro
+2020-07-01,Aracaju,392.75,Nordeste,2020,7,terceiro
+2020-07-01,Fortaleza,454.74,Nordeste,2020,7,terceiro
+2020-07-01,João Pessoa,417.75,Nordeste,2020,7,terceiro
+2020-07-01,Natal,430.66,Nordeste,2020,7,terceiro
+2020-07-01,Recife,436.1,Nordeste,2020,7,terceiro
+2020-07-01,Salvador,415.22,Nordeste,2020,7,terceiro
+2020-08-01,Brasília,443.28,Centro Oeste,2020,8,terceiro
+2020-08-01,Campo Grande,484.46,Centro Oeste,2020,8,terceiro
+2020-08-01,Goiânia,483.15,Centro Oeste,2020,8,terceiro
+2020-08-01,Belo Horizonte,478.07,Sudeste,2020,8,terceiro
+2020-08-01,Rio de Janeiro,529.76,Sudeste,2020,8,terceiro
+2020-08-01,São Paulo,539.95,Sudeste,2020,8,terceiro
+2020-08-01,Vitória,509.45,Sudeste,2020,8,terceiro
+2020-08-01,Curitiba,505.54,Sul,2020,8,terceiro
+2020-08-01,Florianópolis,530.42,Sul,2020,8,terceiro
+2020-08-01,Porto Alegre,528.61,Sul,2020,8,terceiro
+2020-08-01,Belém,441.51,Norte,2020,8,terceiro
+2020-08-01,Aracaju,398.47,Nordeste,2020,8,terceiro
+2020-08-01,Fortaleza,462.13,Nordeste,2020,8,terceiro
+2020-08-01,João Pessoa,414.5,Nordeste,2020,8,terceiro
+2020-08-01,Natal,419.47,Nordeste,2020,8,terceiro
+2020-08-01,Recife,439.19,Nordeste,2020,8,terceiro
+2020-08-01,Salvador,418.72,Nordeste,2020,8,terceiro

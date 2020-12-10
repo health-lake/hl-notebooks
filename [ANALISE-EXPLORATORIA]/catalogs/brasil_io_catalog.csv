@@ -1,0 +1,15 @@
+campo,tipo de dado,descrição
+index,int64,ID da linha
+date,object,data de coleta dos dados no formato YYYY-MM-DD
+state,object,sigla da unidade federativa (estado)
+city,object,nome do município
+place_type,object,tipo de localidade (estado ou cidade)
+confirmed,int64,número de casos confirmados
+deaths,int64,número de mortes
+order_for_place,int64,ordem do registro para este local
+is_last,bool,campo lógico (True ou False) que indica se esse registro é o mais novo para esse local
+estimated_population_2019,float64,população estimada em 2019
+city_ibge_code,float64,código do IBGE da cidade
+confirmed_per_100k_inhabitants,float64,número de casos confirmados a cada 100 mil
+death_rate,float64,taxa de mortalidade (mortes/confirmados)
+location_id,int64,ID da localidade

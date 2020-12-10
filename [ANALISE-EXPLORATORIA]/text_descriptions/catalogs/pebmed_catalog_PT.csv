@@ -1,0 +1,11 @@
+,fields,data type,description
+0,index,int64,observation ID
+1,topic_title,object,título do artigo
+2,derived_tstamp,object,data
+3,geo_country,object,país
+4,geo_region,object,estado
+5,geo_city,object,cidade
+6,geo_zipcode,object,código postal (CEP)
+7,geo_latitude,float64,latitude
+8,geo_longitude,float64,longitude
+9,geo_region_name,object,nome do estado por extenso

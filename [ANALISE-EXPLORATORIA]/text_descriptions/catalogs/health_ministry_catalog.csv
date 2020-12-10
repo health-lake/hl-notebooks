@@ -1,0 +1,10 @@
+campo,tipo de dado,descrição
+index,int64,ID da linha
+regiao,object,região do país
+estado,object,estado
+date,object,data
+casosNovos,int64,número de novos casos registrados
+casosAcumulados,int64,número de casos acumulados até esta data
+obitosNovos,int64,número de novas mortes registradas
+obitosAcumulados,int64,número de mortes acumuladas até esta data
+location_id,int64,ID da localidade

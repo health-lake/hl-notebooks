@@ -1,0 +1,38 @@
+campo,tipo de dado,descrição
+index,int64,ID da linha
+data de publicação,object,data de publicação
+UF,int64,código da Unidade da federação (ver https://www.oobj.com.br/bc/article/quais-os-c%C3%B3digos-de-cada-uf-no-brasil-465.html)
+Unidade da Federação,object,nome da unidade da federação 
+Tipo,object,tipo de unidade da federação
+dado,object,doença
+escala,object,fator analisado da doença
+sexo,object,sexo
+Ano epidemiológico,int64,ano epidemiológico
+Semana epidemiológica,int64,semana epidemiológica
+Ano e semana epidemiológica,object,ano e semana epidemiológica
+Situação do dado,object,situação do dado
+Total reportado até a última atualização,object,total reportado até a última atualização
+Idade desconhecida,object,número de pessoas com idade desconhecida
+< 2 anos,object,número de pessoas com menos de 2 anos
+0-4 anos,object,número de pessoas entre 0 e 4 anos
+10-19 anos,object,número de pessoas entre 10 e 19 anos
+2-4 anos,object,número de pessoas entre 2 e 4 anos
+20-29 anos,object,número de pessoas entre 20 e 29 anos
+30-39 anos,object,número de pessoas entre 30 e 39 anos
+40-49 anos,object,número de pessoas entre 40 e 49 anos
+5-9 anos,object,número de pessoas entre 5 e 9 anos
+50-59 anos,object,número de pessoas entre 50 e 59 anos
+60+ anos,object,número de pessoas com mais de 60 anos
+Testes positivos,object,número de testes positivos
+Testes negativos,object,número de testes negativos
+Casos aguardando resultado,object,número de casos aguardando resultado
+Casos sem informação laboratorial,object,número de casos sem informação laboratorial
+Casos sem teste laboratorial,object,número de casos sem teste laboratorial
+Influenza A,object,número de casos de Influenza A
+Influenza B,object,número de casos de Influenza B
+SARS-CoV-2,object,número de casos de SARS-CoV-2
+Vírus sincicial respiratório (VSR),object,número de casos de vírus sincicial respiratório (VSR)
+Parainfluenza 1,object,número de casos de parainfluenza 1
+Parainfluenza 2,object,número de casos de parainfluenza 2
+Parainfluenza 3,object,número de casos de parainfluenza 3
+Adenovirus,object,número de casos de adenovirus

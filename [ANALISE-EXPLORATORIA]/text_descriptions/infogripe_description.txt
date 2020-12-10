@@ -1,0 +1,11 @@
+observation ID
+article title
+date
+country
+state
+city
+zip code
+latitude coordinates
+longitude coordinates
+state full name
+    

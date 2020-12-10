@@ -1,0 +1,16 @@
+Coluna;Tipo;Título;Descrição
+ano_mes;integer;Ano/Mês;Ano/mês da disponibilização
+uf;string (max_length=2);UF;UF
+codigo_ibge_municipio;integer;Cód IBGE Município;Código IBGE do Município do beneficiário
+municipio;string (max_length=63);Município;Município do beneficiário
+nis_beneficiario;string (max_length=11);NIS Beneficiário;NIS do beneficiário
+cpf_beneficiario;string (max_length=11);CPF Beneficiário;CPF do beneficiário
+beneficiario;string (max_length=255);Beneficiário;Nome do beneficiário
+nis_responsavel;string (max_length=11);NIS Responsável;NIS do responsável
+cpf_responsavel;string (max_length=11);CPF Responsável;CPF do responsável
+responsavel;string (max_length=255);Responsável;Nome do responsável
+enquadramento;string (max_length=63);Enquadramento;Enquadramento
+parcela;integer (max_length=1);Parcela;Parcela
+observacao;string (max_length=255);Observação;Observação
+valor;decimal (max_digits=10, decimal_places=2);Valor;Valor
+em_sigilo;bool (max_length=1);Dado em sigilo?;Dados em sigilo?

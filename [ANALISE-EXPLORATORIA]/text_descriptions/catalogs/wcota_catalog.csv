@@ -1,0 +1,20 @@
+campo,tipo de dado,descrição
+index,int64,ID da linha
+date,object,data
+country,object,país
+state,object,estado
+city,object,cidade 
+ibgeID,int64,ID do IBGE
+newDeaths,int64,número de novas mortes registradas
+deaths,int64,número de novas mortes acumuladas até esta data
+newCases,int64,número de novos casos registrados
+totalCases,int64,número total de casos registrados até esta data
+deaths_per_100k_inhabitants,float64,número de mortes a cada 100 mil habitantes
+totalCases_per_100k_inhabitants,float64,número total de mortes a cada 100 mil habitantes
+deaths_by_totalCases,float64,relação entre o número de mortes e o total de mortes
+last_info_date,object,data da última atualização dos dados
+epi_week,float64,epi_week
+cod_RegiaoDeSaude,float64,código da região de saúde
+name_RegiaoDeSaude,object,nome da região de saúde
+_source,object,fonte dos dados
+location_id,int64,ID da localidade

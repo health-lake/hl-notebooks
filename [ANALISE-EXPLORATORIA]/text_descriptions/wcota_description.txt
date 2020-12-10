@@ -1,0 +1,20 @@
+ID da linha
+data
+país
+estado
+cidade 
+ID do IBGE
+número de novas mortes registradas
+número de novas mortes acumuladas até esta data
+número de novos casos registrados
+número total de casos registrados até esta data
+número de mortes a cada 100 mil habitantes
+número total de mortes a cada 100 mil habitantes
+relação entre o número de mortes e o total de mortes
+data da última atualização dos dados
+epi_week
+código da região de saúde
+nome da região de saúde
+fonte dos dados
+ID da localidade
+    

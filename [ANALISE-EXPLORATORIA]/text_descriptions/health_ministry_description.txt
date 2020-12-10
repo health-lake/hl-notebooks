@@ -1,0 +1,10 @@
+ID da linha
+região do país
+estado
+data
+número de novos casos registrados
+número de casos acumulados até esta data
+número de novas mortes registradas
+número de mortes acumuladas até esta data
+ID da localidade
+    

@@ -1,0 +1,15 @@
+ID da linha
+data de coleta dos dados no formato YYYY-MM-DD
+sigla da unidade federativa (estado)
+nome do município
+tipo de localidade (estado ou cidade)
+número de casos confirmados
+número de mortes
+ordem do registro para este local
+campo lógico (True ou False) que indica se esse registro é o mais novo para esse local
+população estimada em 2019
+código do IBGE da cidade
+número de casos confirmados a cada 100 mil
+taxa de mortalidade (mortes/confirmados)
+ID da localidade
+    

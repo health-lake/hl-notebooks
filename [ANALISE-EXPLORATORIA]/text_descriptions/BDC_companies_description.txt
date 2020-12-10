@@ -1,0 +1,16 @@
+estado
+faixa salarial em janeiro de 2020 (em salários mínimos)
+faixa salarial em fevereiro de 2020 (em salários mínimos)
+faixa salarial em março de 2020 (em salários mínimos)
+faixa salarial em abril de 2020 (em salários mínimos)
+faixa salarial em maio de 2020 (em salários mínimos)
+faixa salarial em junho de 2020 (em salários mínimos)
+faixa salarial em julho de 2020 (em salários mínimos)
+faixa de número de empregados janeiro de 2020
+faixa de número de empregados em fevereiro de 2020
+faixa de número de empregados em março de 2020
+faixa de número de empregados em abril de 2020
+faixa de número de empregados em maio de 2020
+faixa de número de empregados em junho de 2020
+faixa de número de empregados em julho de 2020
+    

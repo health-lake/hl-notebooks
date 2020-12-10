@@ -1,0 +1,38 @@
+,fields,data type,description
+0,index,int64,ID da linha
+1,data de publicação,object,data de publicação
+2,UF,int64,código da Unidade da federação (ver https://www.oobj.com.br/bc/article/quais-os-c%C3%B3digos-de-cada-uf-no-brasil-465.html)
+3,Unidade da Federação,object,nome da unidade da federação 
+4,Tipo,object,tipo de unidade da federação
+5,dado,object,doença
+6,escala,object,fator analisado da doença
+7,sexo,object,sexo
+8,Ano epidemiológico,int64,ano epidemiológico
+9,Semana epidemiológica,int64,semana epidemiológica
+10,Ano e semana epidemiológica,object,ano e semana epidemiológica
+11,Situação do dado,object,situação do dado
+12,Total reportado até a última atualização,object,total reportado até a última atualização
+13,Idade desconhecida,object,número de pessoas com idade desconhecida
+14,< 2 anos,object,número de pessoas com menos de 2 anos
+15,0-4 anos,object,número de pessoas entre 0 e 4 anos
+16,10-19 anos,object,número de pessoas entre 10 e 19 anos
+17,2-4 anos,object,número de pessoas entre 2 e 4 anos
+18,20-29 anos,object,número de pessoas entre 20 e 29 anos
+19,30-39 anos,object,número de pessoas entre 30 e 39 anos
+20,40-49 anos,object,número de pessoas entre 40 e 49 anos
+21,5-9 anos,object,número de pessoas entre 5 e 9 anos
+22,50-59 anos,object,número de pessoas entre 50 e 59 anos
+23,60+ anos,object,número de pessoas com mais de 60 anos
+24,Testes positivos,object,número de testes positivos
+25,Testes negativos,object,número de testes negativos
+26,Casos aguardando resultado,object,número de casos aguardando resultado
+27,Casos sem informação laboratorial,object,número de casos sem informação laboratorial
+28,Casos sem teste laboratorial,object,número de casos sem teste laboratorial
+29,Influenza A,object,número de casos de Influenza A
+30,Influenza B,object,número de casos de Influenza B
+31,SARS-CoV-2,object,número de casos de SARS-CoV-2
+32,Vírus sincicial respiratório (VSR),object,número de casos de vírus sincicial respiratório (VSR)
+33,Parainfluenza 1,object,número de casos de parainfluenza 1
+34,Parainfluenza 2,object,número de casos de parainfluenza 2
+35,Parainfluenza 3,object,número de casos de parainfluenza 3
+36,Adenovirus,object,número de casos de adenovirus

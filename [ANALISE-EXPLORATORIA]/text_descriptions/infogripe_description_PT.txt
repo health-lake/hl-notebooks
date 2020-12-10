@@ -1,0 +1,37 @@
+ID da linha
+data de publicação
+código da Unidade da federação (ver https://www.oobj.com.br/bc/article/quais-os-c%C3%B3digos-de-cada-uf-no-brasil-465.html)
+nome da unidade da federação 
+tipo de unidade da federação
+doença
+fator analisado da doença
+sexo
+ano epidemiológico
+semana epidemiológica
+ano e semana epidemiológica
+situação do dado
+total reportado até a última atualização
+número de pessoas com idade desconhecida
+número de pessoas com menos de 2 anos
+número de pessoas entre 0 e 4 anos
+número de pessoas entre 10 e 19 anos
+número de pessoas entre 2 e 4 anos
+número de pessoas entre 20 e 29 anos
+número de pessoas entre 30 e 39 anos
+número de pessoas entre 40 e 49 anos
+número de pessoas entre 5 e 9 anos
+número de pessoas entre 50 e 59 anos
+número de pessoas com mais de 60 anos
+número de testes positivos
+número de testes negativos
+número de casos aguardando resultado
+número de casos sem informação laboratorial
+número de casos sem teste laboratorial
+número de casos de Influenza A
+número de casos de Influenza B
+número de casos de SARS-CoV-2
+número de casos de vírus sincicial respiratório (VSR)
+número de casos de parainfluenza 1
+número de casos de parainfluenza 2
+número de casos de parainfluenza 3
+número de casos de adenovirus

@@ -1,0 +1,21 @@
+METODOLOGIA DE CATALOGAÇÃO
+
+NOTEBOOKS: 
+
+Catalogação de brasil_io, health_ministry e pebmed (CDM)
+
+http://18.207.22.2/jupyter/notebooks/covid-prj01-data-analysis/%5BANALISE-EXPLORATORIA%5D/%5BCovid-Lake%5D%5BEDA%5D%5BCATALOGANDO_disease_indicator%5D.ipynb
+
+Catalogação de pebmed e infogripe (raw)
+
+http://18.207.22.2/jupyter/notebooks/covid-prj01-data-analysis/%5BANALISE-EXPLORATORIA%5D/%5BCovid-Lake%5D%5BEDA%5D%5BCATALOGANDO_pebmed_infogripe%5D.ipynb
+
+1- Criar uma descrição em txt (no próprio notebook) para cada coluna
+
+2- Rodar o script e salvar em csv
+
+3- baixar o arquivo csv
+
+4- Converter o csv em markdown no site: https://www.tablesgenerator.com/markdown_tables
+
+5- Copiar e colar o markdown no catálogo de cada dataset no Dremio

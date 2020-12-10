@@ -1,0 +1,47 @@
+campo,tipo de dado,descrição
+STATE,object,estado
+EMPLOYMENT_STABILITY_2020_01_01,object,nível de estabilidade no emprego em janeiro de 2020
+EMPLOYMENT_STABILITY_2020_02_01,object,nível de estabilidade no emprego em fevereiro de 2020
+EMPLOYMENT_STABILITY_2020_03_01,object,nível de estabilidade no emprego em março de 2020
+EMPLOYMENT_STABILITY_2020_04_01,object,nível de estabilidade no emprego em abril de 2020
+EMPLOYMENT_STABILITY_2020_05_01,object,nível de estabilidade no emprego em maio de 2020
+EMPLOYMENT_STABILITY_2020_06_01,object,nível de estabilidade no emprego em junho de 2020
+EMPLOYMENT_STABILITY_2020_07_01,object,nível de estabilidade no emprego em julho de 2020
+ENTREPRENEURSHIP_LEVEL_2020_01_01,object,nível de empreendedorismo em janeiro de 2020
+ENTREPRENEURSHIP_LEVEL_2020_02_01,object,nível de empreendedorismo em fevereiro de 2020
+ENTREPRENEURSHIP_LEVEL_2020_03_01,object,nível de empreendedorismo em março de 2020
+ENTREPRENEURSHIP_LEVEL_2020_04_01,object,nível de empreendedorismo em abril de 2020
+ENTREPRENEURSHIP_LEVEL_2020_05_01,object,nível de empreendedorismo em maio de 2020
+ENTREPRENEURSHIP_LEVEL_2020_06_01,object,nível de empreendedorismo em junho de 2020
+ENTREPRENEURSHIP_LEVEL_2020_07_01,object,nível de empreendedorismo em julho de 2020
+SOCIAL_ASSISTANCE_BENEFIT_2020_01_01,object,benefício de assistência social recebido em janeiro de 2020
+SOCIAL_ASSISTANCE_BENEFIT_AMOUNT_2020_01_01,float64,valor do benefício de assistência social recebido em janeiro de 2020
+SOCIAL_ASSISTANCE_BENEFIT_2020_02_01,object,benefício de assistência social recebido em fevereiro de 2020
+SOCIAL_ASSISTANCE_BENEFIT_AMOUNT_2020_02_01,float64,valor do benefício de assistência social recebido em fevereiro de 2020
+SOCIAL_ASSISTANCE_BENEFIT_2020_03_01,object,benefício de assistência social recebido em março de 2020
+SOCIAL_ASSISTANCE_BENEFIT_AMOUNT_2020_03_01,float64,valor do benefício de assistência social recebido em março de 2020
+SOCIAL_ASSISTANCE_BENEFIT_2020_04_01,object,benefício de assistência social recebido em abril de 2020
+SOCIAL_ASSISTANCE_BENEFIT_AMOUNT_2020_04_01,float64,valor do benefício de assistência social recebido em abril de 2020
+SOCIAL_ASSISTANCE_BENEFIT_2020_05_01,object,benefício de assistência social recebido em maio de 2020
+SOCIAL_ASSISTANCE_BENEFIT_AMOUNT_2020_05_01,float64,valor do benefício de assistência social recebido em maio de 2020
+SOCIAL_ASSISTANCE_BENEFIT_2020_06_01,object,benefício de assistência social recebido em junho de 2020
+SOCIAL_ASSISTANCE_BENEFIT_AMOUNT_2020_06_01,float64,valor do benefício de assistência social recebido em junho de 2020
+SOCIAL_ASSISTANCE_BENEFIT_2020_07_01,object,benefício de assistência social recebido em julho de 2020
+SOCIAL_ASSISTANCE_BENEFIT_AMOUNT_2020_07_01,float64,valor médio do benefício de assistência social recebido em julho de 2020
+SOCIAL_ASSISTANCE_BENEFIT_AVG_AMOUNT_2020,float64,total do benefício de assistência social recebido em julho de 2020
+SOCIAL_ASSISTANCE_BENEFIT_TOTAL_AMOUNT_2020,int64,benefício de assistência social recebido em 2020
+SOCIAL_ASSISTANCE_BENEFIT,object,menor salário estimado em janeiro de 2020 (em salários mínimos)
+MINIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_01_01,object,maior salário estimado em janeiro de 2020 (em salários mínimos) 
+MAXIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_01_01,object,menor salário estimado em fevereiro de 2020 (em salários mínimos) 
+MINIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_02_01,object,maior salário estimado em fevereiro de 2020 (em salários mínimos) 
+MAXIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_02_01,object,menor salário estimado em março de 2020 (em salários mínimos) 
+MINIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_03_01,object,maior salário estimado em março de 2020 (em salários mínimos) 
+MAXIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_03_01,object,menor salário estimado em maio de 2020 (em salários mínimos) 
+MINIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_04_01,object,maior salário estimado em maio de 2020 (em salários mínimos) 
+MAXIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_04_01,object,menor salário estimado em junho de 2020 (em salários mínimos) 
+MINIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_05_01,object,maior salário estimado em junho de 2020 (em salários mínimos) 
+MAXIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_05_01,object,menor salário estimado em julho de 2020 (em salários mínimos) 
+MINIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_06_01,object,maior salário estimado em julho de 2020 (em salários mínimos)
+MAXIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_06_01,object,
+MINIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_07_01,object,
+MAXIMUM_ESTIMATED_INCOME_emSalariosMinimos_2020_07_01,object,

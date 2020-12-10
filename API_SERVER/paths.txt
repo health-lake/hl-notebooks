@@ -1,0 +1,6 @@
+/home/ubuntu/notebooks/covid-prj01-data-analysis/API_SERVER
+/home/ubuntu/notebooks/covid-prj01-data-analysis/API_SERVER/prjcvenv/bin
+/home/ubuntu/anaconda/lib/python37.zip
+/home/ubuntu/anaconda/lib/python3.7
+/home/ubuntu/anaconda/lib/python3.7/lib-dynload
+/home/ubuntu/notebooks/covid-prj01-data-analysis/API_SERVER/prjcvenv/lib/python3.7/site-packages

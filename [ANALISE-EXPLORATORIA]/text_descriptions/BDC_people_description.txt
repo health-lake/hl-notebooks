@@ -1,0 +1,44 @@
+estado
+nível de estabilidade no emprego em janeiro de 2020
+nível de estabilidade no emprego em fevereiro de 2020
+nível de estabilidade no emprego em março de 2020
+nível de estabilidade no emprego em abril de 2020
+nível de estabilidade no emprego em maio de 2020
+nível de estabilidade no emprego em junho de 2020
+nível de estabilidade no emprego em julho de 2020
+nível de empreendedorismo em janeiro de 2020
+nível de empreendedorismo em fevereiro de 2020
+nível de empreendedorismo em março de 2020
+nível de empreendedorismo em abril de 2020
+nível de empreendedorismo em maio de 2020
+nível de empreendedorismo em junho de 2020
+nível de empreendedorismo em julho de 2020
+benefício de assistência social recebido em janeiro de 2020
+valor do benefício de assistência social recebido em janeiro de 2020
+benefício de assistência social recebido em fevereiro de 2020
+valor do benefício de assistência social recebido em fevereiro de 2020
+benefício de assistência social recebido em março de 2020
+valor do benefício de assistência social recebido em março de 2020
+benefício de assistência social recebido em abril de 2020
+valor do benefício de assistência social recebido em abril de 2020
+benefício de assistência social recebido em maio de 2020
+valor do benefício de assistência social recebido em maio de 2020
+benefício de assistência social recebido em junho de 2020
+valor do benefício de assistência social recebido em junho de 2020
+benefício de assistência social recebido em julho de 2020
+valor médio do benefício de assistência social recebido em julho de 2020
+total do benefício de assistência social recebido em julho de 2020
+benefício de assistência social recebido em 2020
+menor salário estimado em janeiro de 2020 (em salários mínimos)
+maior salário estimado em janeiro de 2020 (em salários mínimos) 
+menor salário estimado em fevereiro de 2020 (em salários mínimos) 
+maior salário estimado em fevereiro de 2020 (em salários mínimos) 
+menor salário estimado em março de 2020 (em salários mínimos) 
+maior salário estimado em março de 2020 (em salários mínimos) 
+menor salário estimado em maio de 2020 (em salários mínimos) 
+maior salário estimado em maio de 2020 (em salários mínimos) 
+menor salário estimado em junho de 2020 (em salários mínimos) 
+maior salário estimado em junho de 2020 (em salários mínimos) 
+menor salário estimado em julho de 2020 (em salários mínimos) 
+maior salário estimado em julho de 2020 (em salários mínimos)
+    

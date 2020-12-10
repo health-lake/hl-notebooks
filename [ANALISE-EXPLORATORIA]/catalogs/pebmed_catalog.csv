@@ -1,0 +1,11 @@
+campo,tipo de dado,descrição
+index,int64,ID da linha
+topic_title,object,título do artigo
+derived_tstamp,object,data
+geo_country,object,país
+geo_region,object,estado
+geo_city,object,cidade
+geo_zipcode,object,código postal (CEP)
+geo_latitude,float64,latitude
+geo_longitude,float64,longitude
+geo_region_name,object,nome do estado por extenso

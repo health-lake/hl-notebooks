@@ -1,0 +1,11 @@
+observation ID
+título do artigo
+data
+país
+estado
+cidade
+código postal (CEP)
+latitude
+longitude
+nome do estado por extenso
+    

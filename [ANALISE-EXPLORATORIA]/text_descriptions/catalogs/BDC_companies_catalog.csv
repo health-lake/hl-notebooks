@@ -1,0 +1,16 @@
+campo,tipo de dado,descrição
+STATE,object,estado
+INCOME_RANGE_2020-01-01,object,faixa salarial em janeiro de 2020 (em salários mínimos)
+INCOME_RANGE_2020-02-01,object,faixa salarial em fevereiro de 2020 (em salários mínimos)
+INCOME_RANGE_2020-03-01,object,faixa salarial em março de 2020 (em salários mínimos)
+INCOME_RANGE_2020-04-01,object,faixa salarial em abril de 2020 (em salários mínimos)
+INCOME_RANGE_2020-05-01,object,faixa salarial em maio de 2020 (em salários mínimos)
+INCOME_RANGE_2020-06-01,object,faixa salarial em junho de 2020 (em salários mínimos)
+INCOME_RANGE_2020-07-01,object,faixa salarial em julho de 2020 (em salários mínimos)
+EMPLOYEE_RANGE_2020-01-01,object,faixa de número de empregados janeiro de 2020
+EMPLOYEE_RANGE_2020-02-01,object,faixa de número de empregados em fevereiro de 2020
+EMPLOYEE_RANGE_2020-03-01,object,faixa de número de empregados em março de 2020
+EMPLOYEE_RANGE_2020-04-01,object,faixa de número de empregados em abril de 2020
+EMPLOYEE_RANGE_2020-05-01,object,faixa de número de empregados em maio de 2020
+EMPLOYEE_RANGE_2020-06-01,object,faixa de número de empregados em junho de 2020
+EMPLOYEE_RANGE_2020-07-01,object,faixa de número de empregados em julho de 2020
