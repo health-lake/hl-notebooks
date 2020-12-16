@@ -33,4 +33,4 @@ Since the querie does not return column names or types on JDBC connector.
 This is the most versatile access, but the least performant ones. The Dremio API is limited to 500 registries at each response, which makes retriving big datasets a troublesome task with this connections. However, this is a [well documented API ](https://docs.dremio.com/rest-api/) and can be used to fetch metadata. we implemented the connector for Python and use R reticulate to translate python datasets to R on the example notebook.
 
 #### by dourival@datasprints.com 
-on 29-04-2019
+on 29-04-2020
